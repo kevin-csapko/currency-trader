@@ -1,0 +1,1 @@
+export const CURRENCY_TOGGLED = "CURRENCY_TOGGLED";

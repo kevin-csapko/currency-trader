@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-bottom: 20px;
+}
+
+.container > div {
+  padding: 25px 8px;
+  width: 250px;
+}
+
+img {
+  height: 78px;
+  color: red;
+}
+
+.conversion-rate {
+  font-size: 56px;
+}
