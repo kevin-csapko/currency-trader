@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/currency-trader/static/css/main.f126a4ad.chunk.css",
+    "main.js": "/currency-trader/static/js/main.d6ea0373.chunk.js",
+    "main.js.map": "/currency-trader/static/js/main.d6ea0373.chunk.js.map",
+    "runtime-main.js": "/currency-trader/static/js/runtime-main.938a662b.js",
+    "runtime-main.js.map": "/currency-trader/static/js/runtime-main.938a662b.js.map",
+    "static/js/2.8090d10f.chunk.js": "/currency-trader/static/js/2.8090d10f.chunk.js",
+    "static/js/2.8090d10f.chunk.js.map": "/currency-trader/static/js/2.8090d10f.chunk.js.map",
+    "static/js/3.3b35dd19.chunk.js": "/currency-trader/static/js/3.3b35dd19.chunk.js",
+    "static/js/3.3b35dd19.chunk.js.map": "/currency-trader/static/js/3.3b35dd19.chunk.js.map",
+    "index.html": "/currency-trader/index.html",
+    "static/css/main.f126a4ad.chunk.css.map": "/currency-trader/static/css/main.f126a4ad.chunk.css.map",
+    "static/js/2.8090d10f.chunk.js.LICENSE.txt": "/currency-trader/static/js/2.8090d10f.chunk.js.LICENSE.txt",
+    "static/media/arrow-down-solid.c7e7c919.svg": "/currency-trader/static/media/arrow-down-solid.c7e7c919.svg",
+    "static/media/arrow-up-solid.e9b9f0b5.svg": "/currency-trader/static/media/arrow-up-solid.e9b9f0b5.svg",
+    "static/media/arrows-alt-h-solid.89b3edff.svg": "/currency-trader/static/media/arrows-alt-h-solid.89b3edff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.938a662b.js",
+    "static/js/2.8090d10f.chunk.js",
+    "static/css/main.f126a4ad.chunk.css",
+    "static/js/main.d6ea0373.chunk.js"
+  ]
+}
